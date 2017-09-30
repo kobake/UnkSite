@@ -15,6 +15,8 @@
 
 ![image2](https://pbs.twimg.com/media/CnFPHR0VUAADj6s.jpg)
 
+<img src="https://pbs.twimg.com/media/CnFPHR0VUAADj6s.jpg" width="300" />
+
 
 
 - [Twitter](https://twitter.com/)
